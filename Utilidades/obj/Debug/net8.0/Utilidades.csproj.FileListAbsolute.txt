@@ -13,3 +13,4 @@ D:\Proyecto FullStack Angular y NetCore(Net 8)\DoctorApp\DoctorAppBackend\Utilid
 D:\Proyecto FullStack Angular y NetCore(Net 8)\DoctorApp\DoctorAppBackend\Utilidades\obj\Debug\net8.0\refint\Utilidades.dll
 D:\Proyecto FullStack Angular y NetCore(Net 8)\DoctorApp\DoctorAppBackend\Utilidades\obj\Debug\net8.0\Utilidades.pdb
 D:\Proyecto FullStack Angular y NetCore(Net 8)\DoctorApp\DoctorAppBackend\Utilidades\obj\Debug\net8.0\ref\Utilidades.dll
+D:\Proyecto FullStack Angular y NetCore(Net 8)\DoctorApp\DoctorAppBackend\Utilidades\obj\Debug\net8.0\Utilidades.sourcelink.json

@@ -47,3 +47,4 @@ D:\Proyecto FullStack Angular y NetCore(Net 8)\DoctorApp\DoctorAppBackend\Data\o
 D:\Proyecto FullStack Angular y NetCore(Net 8)\DoctorApp\DoctorAppBackend\Data\obj\Debug\net8.0\Data.pdb
 D:\Proyecto FullStack Angular y NetCore(Net 8)\DoctorApp\DoctorAppBackend\Data\obj\Debug\net8.0\Data.genruntimeconfig.cache
 D:\Proyecto FullStack Angular y NetCore(Net 8)\DoctorApp\DoctorAppBackend\Data\obj\Debug\net8.0\ref\Data.dll
+D:\Proyecto FullStack Angular y NetCore(Net 8)\DoctorApp\DoctorAppBackend\Data\obj\Debug\net8.0\Data.sourcelink.json

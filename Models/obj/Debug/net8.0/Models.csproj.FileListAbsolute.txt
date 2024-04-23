@@ -32,3 +32,4 @@ D:\Proyecto FullStack Angular y NetCore(Net 8)\DoctorApp\DoctorAppBackend\Models
 D:\Proyecto FullStack Angular y NetCore(Net 8)\DoctorApp\DoctorAppBackend\Models\obj\Debug\net8.0\Models.pdb
 D:\Proyecto FullStack Angular y NetCore(Net 8)\DoctorApp\DoctorAppBackend\Models\obj\Debug\net8.0\ref\Models.dll
 D:\Proyecto FullStack Angular y NetCore(Net 8)\DoctorApp\DoctorAppBackend\Models\obj\Debug\net8.0\Models.csproj.AssemblyReference.cache
+D:\Proyecto FullStack Angular y NetCore(Net 8)\DoctorApp\DoctorAppBackend\Models\obj\Debug\net8.0\Models.sourcelink.json

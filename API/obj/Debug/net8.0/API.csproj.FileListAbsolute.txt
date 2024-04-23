@@ -291,3 +291,4 @@ D:\Proyecto FullStack Angular y NetCore(Net 8)\DoctorApp\DoctorAppBackend\API\bi
 D:\Proyecto FullStack Angular y NetCore(Net 8)\DoctorApp\DoctorAppBackend\API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 D:\Proyecto FullStack Angular y NetCore(Net 8)\DoctorApp\DoctorAppBackend\API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 D:\Proyecto FullStack Angular y NetCore(Net 8)\DoctorApp\DoctorAppBackend\API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Proyecto FullStack Angular y NetCore(Net 8)\DoctorApp\DoctorAppBackend\API\obj\Debug\net8.0\API.sourcelink.json

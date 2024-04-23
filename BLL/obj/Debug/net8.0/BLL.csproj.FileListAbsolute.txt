@@ -17,3 +17,4 @@ D:\Proyecto FullStack Angular y NetCore(Net 8)\DoctorApp\DoctorAppBackend\BLL\ob
 D:\Proyecto FullStack Angular y NetCore(Net 8)\DoctorApp\DoctorAppBackend\BLL\obj\Debug\net8.0\refint\BLL.dll
 D:\Proyecto FullStack Angular y NetCore(Net 8)\DoctorApp\DoctorAppBackend\BLL\obj\Debug\net8.0\BLL.pdb
 D:\Proyecto FullStack Angular y NetCore(Net 8)\DoctorApp\DoctorAppBackend\BLL\obj\Debug\net8.0\ref\BLL.dll
+D:\Proyecto FullStack Angular y NetCore(Net 8)\DoctorApp\DoctorAppBackend\BLL\obj\Debug\net8.0\BLL.sourcelink.json
